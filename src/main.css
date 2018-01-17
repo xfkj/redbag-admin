@@ -1,0 +1,12 @@
+div.ql-editor {
+  padding: 8px;
+}
+
+div.ql-editor p {
+  font-size: 16px;
+  padding: 0;
+}
+
+.ql-tooltip {
+  min-width: 450px;
+}
